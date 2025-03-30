@@ -1,0 +1,90 @@
+Add Component: Footprint Not Found SOLDER_POINT
+Add Component: Footprint Not Found SOLDER_POINT
+Add Component: Footprint Not Found SOLDER_POINT
+Add Component: Footprint Not Found SOLDER_POINT
+Add Component: Footprint Not Found SOLDER_POINT
+Add Component: Footprint Not Found SOLDER_POINT
+Add Component: Footprint Not Found SOLDER_POINT
+Add Component: Footprint Not Found SOLDER_POINT
+Add Component: Footprint Not Found SOLDER_POINT
+Add Component: Footprint Not Found SOLDER_POINT
+Add Component: Footprint Not Found SOLDER_POINT
+Add Component: Footprint Not Found SOLDER_POINT
+Add Component: Footprint Not Found SOLDER_POINT
+Add Component: Footprint Not Found SOLDER_POINT
+Add Component: Footprint Not Found SOLDER_POINT
+Add Component: Footprint Not Found SOLDER_POINT
+Add Component: Footprint Not Found SOLDER_POINT
+Add Component: Footprint Not Found SOLDER_POINT
+Added Component: Designator=VT1(SOT23)
+Add component (AddParameter): Name = "Name"; Value = "FDN340P"; VariantName = "[No Variations]"
+Added Component: Designator=VT2(SOT23)
+Add component (AddParameter): Name = "Name"; Value = "FDN340P"; VariantName = "[No Variations]"
+Added Component: Designator=VT3(SOT23)
+Add component (AddParameter): Name = "Name"; Value = "FDN340P"; VariantName = "[No Variations]"
+Added Component: Designator=VT4(SOT23)
+Add component (AddParameter): Name = "Name"; Value = "FDN340P"; VariantName = "[No Variations]"
+Added Component: Designator=VT5(SOT23)
+Add component (AddParameter): Name = "Name"; Value = "FDN340P"; VariantName = "[No Variations]"
+Added Component: Designator=VT6(SOT23)
+Add component (AddParameter): Name = "Name"; Value = "FDN340P"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin 1-1
+Add Pin To Net: Unknown Pin: Pin 2-1
+Add Pin To Net: Unknown Pin: Pin 3-1
+Added Pin To Net: NetName=Net2_1 Pin=VT1-1
+Added Pin To Net: NetName=Net3_1 Pin=VT1-2
+Added Pin To Net: NetName=Net1_1 Pin=VT1-3
+Added Pin To Net: NetName=Net4_1 Pin=VT2-3
+Added Net: Name=Net4_1
+Added Pin To Net: NetName=Net5_1 Pin=VT2-1
+Added Net: Name=Net5_1
+Added Pin To Net: NetName=Net6_1 Pin=VT2-2
+Added Net: Name=Net6_1
+Added Pin To Net: NetName=Net7_1 Pin=VT3-3
+Added Net: Name=Net7_1
+Added Pin To Net: NetName=Net8_1 Pin=VT3-1
+Added Net: Name=Net8_1
+Added Pin To Net: NetName=Net9_1 Pin=VT3-2
+Added Net: Name=Net9_1
+Added Pin To Net: NetName=Net10_1 Pin=VT4-3
+Added Net: Name=Net10_1
+Added Pin To Net: NetName=Net11_1 Pin=VT4-1
+Added Net: Name=Net11_1
+Added Pin To Net: NetName=Net12_1 Pin=VT4-2
+Added Net: Name=Net12_1
+Added Pin To Net: NetName=Net13_1 Pin=VT5-3
+Added Net: Name=Net13_1
+Added Pin To Net: NetName=Net14_1 Pin=VT5-1
+Added Net: Name=Net14_1
+Added Pin To Net: NetName=Net15_1 Pin=VT5-2
+Added Net: Name=Net15_1
+Added Pin To Net: NetName=Net16_1 Pin=VT6-3
+Added Net: Name=Net16_1
+Added Pin To Net: NetName=Net17_1 Pin=VT6-1
+Added Net: Name=Net17_1
+Added Pin To Net: NetName=Net18_1 Pin=VT6-2
+Added Net: Name=Net18_1
+Add Class Member: Failed to add class member : Component 1
+Add Class Member: Failed to add class member : Component 2
+Add Class Member: Failed to add class member : Component 3
+Add Class Member: Failed to add class member : Component 4
+Add Class Member: Failed to add class member : Component 5
+Add Class Member: Failed to add class member : Component 6
+Add Class Member: Failed to add class member : Component 7
+Add Class Member: Failed to add class member : Component 8
+Add Class Member: Failed to add class member : Component 9
+Add Class Member: Failed to add class member : Component 10
+Add Class Member: Failed to add class member : Component 11
+Add Class Member: Failed to add class member : Component 12
+Add Class Member: Failed to add class member : Component 13
+Add Class Member: Failed to add class member : Component 14
+Add Class Member: Failed to add class member : Component 15
+Add Class Member: Failed to add class member : Component 16
+Add Class Member: Failed to add class member : Component 17
+Add Class Member: Failed to add class member : Component 18
+Added Member To Class: ClassName=Sheet1 Member=Component VT1 FDN340P
+Added Member To Class: ClassName=Sheet1 Member=Component VT2 FDN340P
+Added Member To Class: ClassName=Sheet1 Member=Component VT3 FDN340P
+Added Member To Class: ClassName=Sheet1 Member=Component VT4 FDN340P
+Added Member To Class: ClassName=Sheet1 Member=Component VT5 FDN340P
+Added Member To Class: ClassName=Sheet1 Member=Component VT6 FDN340P

@@ -1,0 +1,12 @@
+Add Component: Footprint Not Found SOLDER_POINT
+Add Component: Footprint Not Found SOLDER_POINT
+Add Component: Footprint Not Found SOLDER_POINT
+Added Component: Designator=VT1(SOT23)
+Add component (AddParameter): Name = "Name"; Value = "FDN340P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net1_1 Pin=VT1-3
+Added Net: Name=Net1_1
+Added Pin To Net: NetName=Net2_1 Pin=VT1-1
+Added Net: Name=Net2_1
+Added Pin To Net: NetName=Net3_1 Pin=VT1-2
+Added Net: Name=Net3_1
+Added Class: Name=Sheet1

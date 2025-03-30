@@ -1,0 +1,72 @@
+Added Component: Designator=1(WIRE_SOLDER_POINT2.1_0.5)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=2(WIRE_SOLDER_POINT2.1_0.5)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=3(WIRE_SOLDER_POINT2.1_0.5)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=4(WIRE_SOLDER_POINT2.1_0.5)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=5(WIRE_SOLDER_POINT2.1_0.5)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=6(WIRE_SOLDER_POINT2.1_0.5)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=7(WIRE_SOLDER_POINT2.1_0.5)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=8(WIRE_SOLDER_POINT2.1_0.5)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=9(WIRE_SOLDER_POINT2.1_0.5)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=10(WIRE_SOLDER_POINT2.1_0.5)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=11(WIRE_SOLDER_POINT2.1_0.5)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=12(WIRE_SOLDER_POINT2.1_0.5)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=13(WIRE_SOLDER_POINT2.1_0.5)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=14(WIRE_SOLDER_POINT2.1_0.5)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=15(WIRE_SOLDER_POINT2.1_0.5)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=16(WIRE_SOLDER_POINT2.1_0.5)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=17(WIRE_SOLDER_POINT2.1_0.5)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=18(WIRE_SOLDER_POINT2.1_0.5)
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin 1-1
+Add Pin To Net: Unknown Pin: Pin 2-1
+Add Pin To Net: Unknown Pin: Pin 3-1
+Add Pin To Net: Unknown Pin: Pin 4-1
+Add Pin To Net: Unknown Pin: Pin 5-1
+Add Pin To Net: Unknown Pin: Pin 6-1
+Add Pin To Net: Unknown Pin: Pin 7-1
+Add Pin To Net: Unknown Pin: Pin 8-1
+Add Pin To Net: Unknown Pin: Pin 9-1
+Add Pin To Net: Unknown Pin: Pin 10-1
+Add Pin To Net: Unknown Pin: Pin 11-1
+Add Pin To Net: Unknown Pin: Pin 12-1
+Add Pin To Net: Unknown Pin: Pin 13-1
+Add Pin To Net: Unknown Pin: Pin 14-1
+Add Pin To Net: Unknown Pin: Pin 15-1
+Add Pin To Net: Unknown Pin: Pin 16-1
+Add Pin To Net: Unknown Pin: Pin 17-1
+Add Pin To Net: Unknown Pin: Pin 18-1
+Added Member To Class: ClassName=Sheet1 Member=Component 1
+Added Member To Class: ClassName=Sheet1 Member=Component 2
+Added Member To Class: ClassName=Sheet1 Member=Component 3
+Added Member To Class: ClassName=Sheet1 Member=Component 4
+Added Member To Class: ClassName=Sheet1 Member=Component 5
+Added Member To Class: ClassName=Sheet1 Member=Component 6
+Added Member To Class: ClassName=Sheet1 Member=Component 7
+Added Member To Class: ClassName=Sheet1 Member=Component 8
+Added Member To Class: ClassName=Sheet1 Member=Component 9
+Added Member To Class: ClassName=Sheet1 Member=Component 10
+Added Member To Class: ClassName=Sheet1 Member=Component 11
+Added Member To Class: ClassName=Sheet1 Member=Component 12
+Added Member To Class: ClassName=Sheet1 Member=Component 13
+Added Member To Class: ClassName=Sheet1 Member=Component 14
+Added Member To Class: ClassName=Sheet1 Member=Component 15
+Added Member To Class: ClassName=Sheet1 Member=Component 16
+Added Member To Class: ClassName=Sheet1 Member=Component 17
+Added Member To Class: ClassName=Sheet1 Member=Component 18
