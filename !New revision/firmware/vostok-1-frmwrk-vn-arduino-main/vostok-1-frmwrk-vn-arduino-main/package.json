@@ -1,0 +1,17 @@
+{
+  "name": "vostok-1-frmwrk-vn-arduino",
+  "version": "1.0.3",
+  "description": "Arduino core support for Vostok boards based on k1921vk MCUs",
+  "keywords": [
+    "framework",
+    "arduino",
+    "k1921vk",
+    "1921",
+    "niiet"
+  ],
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DCVostok/vostok-1-frmwrk-vn-arduino"
+  }
+}
